@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cambodia Team - ASEAN Kendo Tournament 2025</title>
+    <link rel="icon" type="image/png" href="ppkc-logo.png">
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:wght@300;400;600&family=Noto+Sans+Khmer:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="language-switch">
+            <button onclick="switchLanguage('en')" class="lang-btn active" id="lang-en">EN</button>
+            <button onclick="switchLanguage('km')" class="lang-btn" id="lang-km">ខ្មែរ</button>
+        </div>
+        <div class="header-content">
+            <h1 class="main-title" data-en="Cambodia Team - ASEAN Kendo Tournament 2025" data-km="ក្រុមកម្ពុជា - ការប្រកួតកេនដូអាស៊ាន ២០២៥">Cambodia Team - ASEAN Kendo Tournament 2025</h1>
+            <div class="official-links">
+                <a href="https://www.13akt2025.com/" target="_blank" data-en="ASEAN Kendo Tournament Official Site" data-km="គេហទំព័រផ្លូវការការប្រកួតកេនដូអាស៊ាន">ASEAN Kendo Tournament Official Site</a>
+                <a href="https://phnompenhkendoclub.wordpress.com/" target="_blank" data-en="Phnom Penh Kendo Club" data-km="ក្លឹបកេនដូភ្នំពេញ">Phnom Penh Kendo Club</a>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <section class="team-section">
+            <div class="team-banner">
+                <div class="team-flag">
+                    <img src="Flag_of_Cambodia.jpeg" alt="Cambodia Flag" class="flag-image">
+                </div>
+                <h2 data-en="Team Cambodia" data-km="ក្រុមកម្ពុជា">Team Cambodia</h2>
+                <div class="video-container" id="team-video">
+                    <!-- Team video will be loaded here -->
+                </div>
+            </div>
+        </section>
+
+        <section class="individual-section">
+            <h2 data-en="Individual Matches" data-km="ការប្រកួតបុគ្គល">Individual Matches</h2>
+            <div class="players-grid" id="players-grid">
+                <!-- Individual players will be loaded here -->
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p data-en="© 2025 Phnom Penh Kendo Club" data-km="© ២០២៥ ក្លឹបកេនដូភ្នំពេញ">© 2025 Phnom Penh Kendo Club</p>
+    </footer>
+
+    <script src="script.js"></script>
+    <script src="excel-data-helper.js"></script>
+</body>
+</html>

@@ -1,0 +1,26 @@
+# ASEAN Kendo Tournamentに参加したカンボジアチームの各試合のリンク集サイトを作成する
+- 個人戦とチームがある
+- 各個人の写真と名前のバナーがあり、その下にYoutubeリンクがYoutube埋め込みで表示される
+- チームの写真はカンボジア国旗とし、Team Cambodiaと名前をつける
+- 各人の写真はフォルダ内に名前をつけて保存してある
+- 各人およびチームのYoutubeリンクはエクセルを参照
+- ASEAN Kendo Tournamentの公式サイトへのリンクを配置する https://www.13akt2025.com/
+- プノンペン剣道クラブの公式サイトへのリンクを配置する https://phnompenhkendoclub.wordpress.com/
+
+# デザイン
+- 英語とクメール語の2か国語対応、言語切り替え機能をつける
+- 武道の静謐さを表現する上品なデザインとする
+- カンボジアのカラーである、赤と青をポイントで使う
+
+# Youtubeリンク
+Hocklee Heng: https://www.youtube.com/live/jz3ewJGraa8?si=nxgx9hn2qW64YDQ_&t=2124, https://www.youtube.com/live/jz3ewJGraa8?si=VHidNmEgq_LtykpM&t=2295
+Pitou Veng: https://www.youtube.com/live/GqaeQYOtGHY?si=b0WQOcdf3eLKORyE&t=2031, https://www.youtube.com/live/GqaeQYOtGHY?si=EzdEtrG4_A-sWvb9&t=2202
+Bros Meas: https://www.youtube.com/live/GqaeQYOtGHY?si=J7yGHLaGKc64VYZo&t=651, https://www.youtube.com/live/GqaeQYOtGHY?si=EfBafWHH_PT23DVc&t=707
+Seavlong Veng: https://www.youtube.com/live/at7h64hXE8E?si=vSzuJ-6ELrlZj6Xc&t=3811, https://www.youtube.com/live/at7h64hXE8E?si=ykoTIyVpMyxR1Dih&t=4208
+Chheang Nhoek: https://www.youtube.com/live/cVyeDK15kJg?si=O4mTVsaYRXMqIExG&t=3392, https://www.youtube.com/live/cVyeDK15kJg?si=3hrwGd_gw8Y79vEy&t=3501
+Sopha Dy: https://www.youtube.com/live/mO0fncKK4CQ?si=vJZdd3APqc12b7GP&t=4732
+Sreynuth Tha: https://www.youtube.com/live/t50VVvL_cdY?si=rmPiylM9VaeVNy2S&t=2824
+Team: https://www.youtube.com/live/RO7u8HpW3qs?si=mba2HdYY1rIudQPO&t=462, https://www.youtube.com/live/RO7u8HpW3qs?si=rOnAEjoi1ua5Dwgk&t=3471
+
+# Githubレポジトリ
+https://github.com/ryotaishihara61/AKT25-PPKCmatch-shortcut

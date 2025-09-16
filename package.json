@@ -1,0 +1,17 @@
+{
+  "name": "cambodia-kendo-team",
+  "version": "1.0.0",
+  "description": "Cambodia Team website for ASEAN Kendo Tournament 2025",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 3000",
+    "build": "echo 'Build completed - static files ready for deployment'",
+    "deploy": "vercel"
+  },
+  "keywords": ["kendo", "cambodia", "asean", "tournament"],
+  "author": "Cambodia Kendo Team",
+  "license": "MIT",
+  "devDependencies": {
+    "vercel": "latest"
+  }
+}
