@@ -1,63 +1,63 @@
 const playersData = [
     {
-        name: { en: "HENG HOCKLEE", km: "HENG HOCKLEE" },
+        name: { en: "HENG HOCKLEE", jp: "HENG HOCKLEE", km: "HENG HOCKLEE" },
         photo: "HENG_HOCKLEE.jpg",
         matches: [
-            { title: { en: "Match 1", km: "ការប្រកួតទី១" }, youtubeId: "jz3ewJGraa8", startTime: 2124 },
-            { title: { en: "Match 2", km: "ការប្រកួតទី២" }, youtubeId: "jz3ewJGraa8", startTime: 2295 }
+            { title: { en: "Match 1", jp: "試合 1", km: "ការប្រកួតទី១" }, youtubeId: "jz3ewJGraa8", startTime: 2124 },
+            { title: { en: "Match 2", jp: "試合 2", km: "ការប្រកួតទី២" }, youtubeId: "jz3ewJGraa8", startTime: 2295 }
         ]
     },
     {
-        name: { en: "VENG PITOU", km: "VENG PITOU" },
+        name: { en: "VENG PITOU", jp: "VENG PITOU", km: "VENG PITOU" },
         photo: "VENG_PITOU.jpg",
         matches: [
-            { title: { en: "Match 1", km: "ការប្រកួតទី១" }, youtubeId: "GqaeQYOtGHY", startTime: 2031 },
-            { title: { en: "Match 2", km: "ការប្រកួតទី២" }, youtubeId: "GqaeQYOtGHY", startTime: 2202 }
+            { title: { en: "Match 1", jp: "試合 1", km: "ការប្រកួតទី១" }, youtubeId: "GqaeQYOtGHY", startTime: 2031 },
+            { title: { en: "Match 2", jp: "試合 2", km: "ការប្រកួតទី២" }, youtubeId: "GqaeQYOtGHY", startTime: 2202 }
         ]
     },
     {
-        name: { en: "VENG SEAVLONG", km: "VENG SEAVLONG" },
+        name: { en: "VENG SEAVLONG", jp: "VENG SEAVLONG", km: "VENG SEAVLONG" },
         photo: "VENG_SEAVLONG.jpg",
         matches: [
-            { title: { en: "Match 1", km: "ការប្រកួតទី១" }, youtubeId: "at7h64hXE8E", startTime: 3811 },
-            { title: { en: "Match 2", km: "ការប្រកួតទី២" }, youtubeId: "at7h64hXE8E", startTime: 4208 }
+            { title: { en: "Match 1", jp: "試合 1", km: "ការប្រកួតទី១" }, youtubeId: "at7h64hXE8E", startTime: 3811 },
+            { title: { en: "Match 2", jp: "試合 2", km: "ការប្រកួតទី២" }, youtubeId: "at7h64hXE8E", startTime: 4208 }
         ]
     },
     {
-        name: { en: "BROS MEAS", km: "BROS MEAS" },
+        name: { en: "BROS MEAS", jp: "BROS MEAS", km: "BROS MEAS" },
         photo: "BROS_MEAS.jpg",
         matches: [
-            { title: { en: "Match 1", km: "ការប្រកួតទី១" }, youtubeId: "GqaeQYOtGHY", startTime: 651 },
-            { title: { en: "Match 2", km: "ការប្រកួតទី២" }, youtubeId: "GqaeQYOtGHY", startTime: 707 }
+            { title: { en: "Match 1", jp: "試合 1", km: "ការប្រកួតទី១" }, youtubeId: "GqaeQYOtGHY", startTime: 651 },
+            { title: { en: "Match 2", jp: "試合 2", km: "ការប្រកួតទី២" }, youtubeId: "GqaeQYOtGHY", startTime: 707 }
         ]
     },
     {
-        name: { en: "NHOEK CHHEANG", km: "NHOEK CHHEANG" },
+        name: { en: "NHOEK CHHEANG", jp: "NHOEK CHHEANG", km: "NHOEK CHHEANG" },
         photo: "NHOEK_CHHEANG.jpg",
         matches: [
-            { title: { en: "Match 1", km: "ការប្រកួតទី១" }, youtubeId: "cVyeDK15kJg", startTime: 3392 },
-            { title: { en: "Match 2", km: "ការប្រកួតទី២" }, youtubeId: "cVyeDK15kJg", startTime: 3501 }
+            { title: { en: "Match 1", jp: "試合 1", km: "ការប្រកួតទី១" }, youtubeId: "cVyeDK15kJg", startTime: 3392 },
+            { title: { en: "Match 2", jp: "試合 2", km: "ការប្រកួតទី២" }, youtubeId: "cVyeDK15kJg", startTime: 3501 }
         ]
     },
     {
-        name: { en: "THA SREYNUTH", km: "THA SREYNUTH" },
+        name: { en: "THA SREYNUTH", jp: "THA SREYNUTH", km: "THA SREYNUTH" },
         photo: "THA_SREYNUTH.jpg",
         matches: [
-            { title: { en: "Match 1", km: "ការប្រកួតទី១" }, youtubeId: "t50VVvL_cdY", startTime: 2824 }
+            { title: { en: "Match 1", jp: "試合 1", km: "ការប្រកួតទី១" }, youtubeId: "t50VVvL_cdY", startTime: 2824 }
         ]
     },
     {
-        name: { en: "DY SOPHA", km: "DY SOPHA" },
+        name: { en: "DY SOPHA", jp: "DY SOPHA", km: "DY SOPHA" },
         photo: "DY_SOPHA.jpg",
         matches: [
-            { title: { en: "Match 1", km: "ការប្រកួតទី១" }, youtubeId: "mO0fncKK4CQ", startTime: 4732 }
+            { title: { en: "Match 1", jp: "試合 1", km: "ការប្រកួតទី១" }, youtubeId: "mO0fncKK4CQ", startTime: 4732 }
         ]
     }
 ];
 
 const teamMatches = [
-    { title: { en: "Team Match 1", km: "ការប្រកួតក្រុមទី១" }, youtubeId: "RO7u8HpW3qs", startTime: 462 },
-    { title: { en: "Team Match 2", km: "ការប្រកួតក្រុមទី២" }, youtubeId: "RO7u8HpW3qs", startTime: 3471 }
+    { title: { en: "Team Match 1", jp: "団体戦 1", km: "ការប្រកួតក្រុមទី១" }, youtubeId: "RO7u8HpW3qs", startTime: 462 },
+    { title: { en: "Team Match 2", jp: "団体戦 2", km: "ការប្រកួតក្រុមទី២" }, youtubeId: "RO7u8HpW3qs", startTime: 3471 }
 ];
 
 let currentLang = 'en';
@@ -83,6 +83,7 @@ function switchLanguage(lang) {
         document.body.classList.remove('khmer-text');
     }
 
+    renderTeamVideo();
     renderPlayers();
 }
 
@@ -140,23 +141,30 @@ function renderPlayers() {
                     </div>
                 `;
             } else {
+                const noVideoText = currentLang === 'en' ? 'Match video will be available soon' :
+                                    currentLang === 'jp' ? '試合動画は近日公開予定' :
+                                    'វីដេអូការប្រកួតនឹងមានក្នុងពេលឆាប់ៗ';
                 return `
                     <div class="match-container">
                         <h4 class="match-title">${matchTitle}</h4>
                         <div class="no-video">
-                            <p>${currentLang === 'en' ? 'Match video will be available soon' : 'វីដេអូការប្រកួតនឹងមានក្នុងពេលឆាប់ៗ'}</p>
+                            <p>${noVideoText}</p>
                         </div>
                     </div>
                 `;
             }
         }).join('');
 
+        const matchCountText = currentLang === 'en' ? `${player.matches.length} Match${player.matches.length > 1 ? 'es' : ''}` :
+                               currentLang === 'jp' ? `試合 ${player.matches.length}` :
+                               `ការប្រកួត ${player.matches.length}`;
+
         playerCard.innerHTML = `
             <div class="player-banner">
                 <img src="${player.photo}" alt="${playerName}" class="player-photo">
                 <div class="player-info">
                     <h3>${playerName}</h3>
-                    <p class="match-count">${currentLang === 'en' ? `${player.matches.length} Match${player.matches.length > 1 ? 'es' : ''}` : `ការប្រកួត ${player.matches.length}`}</p>
+                    <p class="match-count">${matchCountText}</p>
                 </div>
             </div>
             <div class="matches-container">
