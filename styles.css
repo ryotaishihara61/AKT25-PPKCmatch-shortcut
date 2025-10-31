@@ -125,7 +125,8 @@ main {
 
 .donor-video {
     max-width: 900px;
-    margin: 0 auto;
+    margin: 2rem auto !important;
+    display: block;
 }
 
 /* Match Links Section Header */
